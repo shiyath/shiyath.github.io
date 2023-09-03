@@ -1,0 +1,102 @@
+body{
+    background-image:url('bg1.jpg') ;
+    background-size: 100% 100%;
+}
+.banner{
+  /*  background-image:url('bannerbg.jpg') ;*/
+  /*  background-size: 100% 250Px;*/
+    height: 250px;
+    width: 100%;
+   /* background-color:rgb(75, 94, 166) ;*/
+   /* border: 5px solid ;*/
+    display:flex;
+
+}
+
+.p-image{
+    float:right;
+    padding-left: 50px;
+    
+}
+.p-dis{
+    align:center;
+    padding-left: 250px;
+}
+#shiyath{
+    border-radius: 50%;
+    height: 100%;
+    width:100%;
+}
+.icon{
+    height: 35px;
+    width: 35px;
+    float: left;
+    padding: 5px;
+}
+
+.social img{
+    height: 35px;
+    width: 35px;
+   
+
+}
+
+
+
+
+.btn{
+    hight:20px;
+    width:100%;
+    
+   /* border:2px solid red;*/
+
+
+}
+
+.summ{
+    height: 300px;
+    width:100%;
+    /*border: 5px solid blue;*/
+
+}
+
+.emp{
+    height: 300px;
+    width:100%;
+    border: 5px solid rgb(21, 216, 197);
+
+
+}
+
+
+.btn button{
+
+    background-color: #b01cd8; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+
+}
+
+#para{
+    hight:40px;
+    width: 70%;
+}
+.skill img{
+    height: 35px;
+    width: 35px;
+    float: left;
+    padding: 5px;
+}
+}
+.column {
+    float: left;
+    width: 30%;
+    padding: 5px;
+  }
+
